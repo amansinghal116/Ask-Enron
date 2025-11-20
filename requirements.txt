@@ -1,0 +1,6 @@
+gradio
+datasets
+transformers
+sentence-transformers
+torch
+numpy
